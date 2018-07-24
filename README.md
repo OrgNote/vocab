@@ -7,7 +7,7 @@
     "@context": {
         "@base": "https://app.orgnote.com/",
         "@vocab": "https://www.orgnote.com/vocab/0.0.2/",
-        "id": "@id"
+        "guid": "@id"
     },
     "author": "quang",
     "createdAt": "2018-07-23T06:37:41.062Z",
